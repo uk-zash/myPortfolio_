@@ -3311,26 +3311,7 @@ img.u-pull-left {
         display : none;
     }
 }
-@media (max-width:400px){
-    .text-huge-title{
-        --text-huge: 7.5rem;
-    }
-}
-@media (max-width:500px){
-    .text-huge-title{
-        --text-huge: 7.5rem;
-    }
-}
-@media (max-width:600px){
-    .text-huge-title{
-        --text-huge: 7.5rem;
-    }
-}
-@media (max-width:300px){
-    .text-huge-title{
-        --text-huge: 7.5rem;
-    }
-}
+
 
 
 
