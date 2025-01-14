@@ -3925,16 +3925,16 @@ img.u-pull-left {
 
 @media screen and (max-width: 400px) {
     .folio-list .column {
-        flex  : none;
-        width : 50%;
+        /* flex  : none; */
+        /* width : 50%; */
     }
 
     .folio-list__item {
-        margin-bottom : 0;
+        /* margin-bottom : 0; */
     }
 
     .folio-list__item-link {
-        padding-left : 0;
+        /* padding-left : 0; */
     }
 
     .folio-list__item-pic {
@@ -3942,18 +3942,18 @@ img.u-pull-left {
     }
 
     .folio-list__item-pic img {
-        max-width : 100%;
-        width     : 100%;
-        height    : auto;
+        /* max-width : 100%; */
+        /* width     : 100%; */
+        /* height    : auto; */
     }
 
     .folio-list__item-text,
     .folio-list__proj-link {
-        display : none;
+        /* display : none; */
     }
 
     .modal-popup__desc {
-        padding : 0 var(--vspace-1) var(--vspace-0_25);
+        /* padding : 0 var(--vspace-1) var(--vspace-0_25); */
     }
 }
 
