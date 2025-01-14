@@ -3313,7 +3313,7 @@ img.u-pull-left {
 }
 @media (max-width:768px){
     .text-huge-title{
-        font-size: 7.5rem;
+        --text-huge: 7.5rem;
     }
 }
 
