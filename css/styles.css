@@ -2608,7 +2608,7 @@ img.u-pull-left {
 }
 
 .text-huge-title {
-    --text-huge : 8.5rem;
+    --text-huge : 10.8rem;
     font-size   : var(--text-huge);
     line-height : 1.0740;
     margin-top  : 0;
@@ -3101,7 +3101,10 @@ img.u-pull-left {
     .main-nav-wrap {
         padding : 0;
     }
+
+    
 }
+
 
 
 
@@ -3299,11 +3302,18 @@ img.u-pull-left {
     .intro-social {
         left : 0;
     }
+
+    
 }
 
 @media screen and (max-width: 350px) {
     .intro-social {
         display : none;
+    }
+}
+@media (max-width:768px){
+    .text-huge-title{
+        font-size: 7.5rem;
     }
 }
 
