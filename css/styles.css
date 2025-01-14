@@ -3374,23 +3374,23 @@ img.u-pull-left {
 /* --------------------------------------------------------------------
  * ## about timelines
  * -------------------------------------------------------------------- */
-.about-timelines {
+/* .about-timelines {
     --timeline-left-padding : var(--vspace-1_75);
     --timeline-top-adjust   : var(--vspace-0_5);
     padding-top             : var(--vspace-3);
-}
+} */
 
-.about-timelines .text-pretitle {
+/* .about-timelines .text-pretitle {
     margin-left : var(--timeline-left-padding);
-}
+} */
 
-.timeline {
+/* .timeline {
     margin-top    : var(--vspace-1_25);
     padding-right : 1vw;
     position      : relative;
-}
+} */
 
-.timeline::before {
+/* .timeline::before {
     content          : "";
     display          : block;
     width            : 1px;
@@ -3399,19 +3399,19 @@ img.u-pull-left {
     position         : absolute;
     top              : var(--timeline-top-adjust);
     left             : 3px;
-}
+} */
 
-.timeline__block {
+/* .timeline__block {
     padding-left   : var(--timeline-left-padding);
     padding-bottom : var(--vspace-0_5);
     position       : relative;
-}
+} */
 
-.timeline__block:last-child {
+/* .timeline__block:last-child {
     padding-bottom : 0;
-}
+} */
 
-.timeline__bullet {
+/* .timeline__bullet {
     display          : block;
     height           : 8px;
     width            : 8px;
@@ -3445,7 +3445,7 @@ img.u-pull-left {
     letter-spacing : .2em;
     color          : var(--color-text-light);
     margin-top     : -.2rem;
-}
+} */
 
 /* ------------------------------------------------------------------- 
  * responsive:
