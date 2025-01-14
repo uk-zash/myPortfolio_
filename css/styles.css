@@ -3259,7 +3259,7 @@ img.u-pull-left {
 
     .intro-social {
         width         : 100%;
-        flex-wrap     : wrap;
+        /* flex-wrap     : wrap; */
         padding-left  : 0;
         padding-right : 8rem;
         transform     : none;
