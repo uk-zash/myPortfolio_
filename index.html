@@ -87,7 +87,7 @@
                             Welcome to My World
                         </div>
 
-                        <h3 class="text-huge-title" style="line-height:normal;">
+                        <h3 class="text-huge-title" id="huge-title">
                             <div> I am Umar,</div>
                             <div> an AI enthusiast,</div>
                             <div> a web developer, </div>
@@ -583,6 +583,7 @@
     const h1 = document.querySelectorAll(".h1"); // Target h1 headings with specific class
     const education= document.querySelector("#education");
     const expertise = document.querySelector(".about-expertise");
+    const hugeTitle = document.querySelector("#huge-title")
     const smallScreenWidth = 768; // Define small screen width threshold
     const moreSmall = 500; // Define more narrow screen width threshold
 
@@ -609,6 +610,7 @@
         education.style.paddingTop = "0px";
         education.style.paddingBottom = "30px"
         expertise.style.paddingTop = "90px"
+        hugeTitle.style.lineHeight = "Normal"
     }
 }
 
