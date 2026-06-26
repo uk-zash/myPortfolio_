@@ -1,4 +1,4 @@
-# MD Umar Portfolio
+# Md Umar Portfolio
 
 A modern personal portfolio website showcasing my experience, projects, technical skills, and professional journey as a **Product Solution Engineer at Juspay**. The portfolio highlights my work in AI, fintech, full-stack development, and intelligent automation.
 
