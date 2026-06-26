@@ -1,132 +1,123 @@
-==================================================================================================
+# MD Umar Portfolio
 
-DESCRIPTION:
+A modern personal portfolio website showcasing my experience, projects, technical skills, and professional journey as a **Product Solution Engineer at Juspay**. The portfolio highlights my work in AI, fintech, full-stack development, and intelligent automation.
 
-LUTHER is a modern, stylish, free personal website template designed for creative individuals 
-and professionals. It is the perfect template if you wish to build an online presence and create 
-a strong first impression on all your site visitors. Luther will help you craft a personal 
-professional website wherein you can showcase your works, talents, and present yourself on the 
-web in the best possible light. On top of that, the template is versatile and easy to customize 
-so with some modifications and a bit of creativity you even use it as a portfolio site for 
-digital studios or a landing page for your projects.
+---
 
-==================================================================================================
+## 🌐 Live Website
 
+**Portfolio:** https://umark.netlify.app
 
-LICENSE:
+---
 
-This free resource is provided by styleshout.com and is free to use in 
-both personal and commercial projects.
+## 👨‍💻 About Me
 
+Hi! I'm **Md Umar**, a Product Solution Engineer at **Juspay** passionate about building AI-powered applications, merchant payment solutions, and developer tools.
 
-Rights:
--------
+My interests include:
 
-You are permitted to use this free resource in any number of personal and commercial projects for 
-yourself or a client. You may modify the resource according to your requirements and include them 
-in your projects under the following condition - you MUST give appropriate credit, provide an 
-attribution link to styleshout.com.
+* Artificial Intelligence
+* Large Language Models (LLMs)
+* Fintech & Payment Systems
+* Full-Stack Development
+* Developer Productivity Tools
 
+---
 
-Prohibitions:
--------------
+## ✨ Features
 
-You are not permitted to resell or redistribute(even for free) the resource "as is" without 
-prior consent. If you would like to republish or promote this resource on your site, please 
-link back to the appropriate resource page on styleshout.com where users can find the download 
-and not directly to the download zip file.
+* Responsive modern design
+* Professional introduction
+* Experience timeline
+* Education section
+* Featured projects
+* Resume download
+* Social links
+* Contact section
+* Mobile-friendly layout
 
+---
 
-Attribution: 
-------------
+## 🚀 Featured Projects
 
-You must include a credit link to our website(https://www.styleshout.com) somewhere on your site. 
-We prefer the footer credit that comes with the template but you are still free to move it 
-somewhere else.
+### Career-Agent
 
+AI-powered job application assistant built using LangGraph and LangChain that customizes resumes, performs job-resume gap analysis, and generates personalized cover letters.
 
+### Smart Assistant
 
-If you have any questions about the License, feel free to contact us.
+An intelligent document assistant capable of answering questions from PDFs with source-backed responses, generating summaries, and creating document-based challenge questions.
 
+### New Tasty Bites
 
------------------------------------------------------------------------------------------------------
+A full-stack restaurant ordering platform featuring a real-time admin dashboard, automated WhatsApp order confirmations, Firebase integration, and Cloudinary-powered media delivery.
 
+---
 
-REMOVING THE ATTRIBUTION LINK:
+## 🛠 Tech Stack
 
-We understand that there are situations where you want to use our templates without 
-the crediting obligation. If that's your case, you can always send us a 
-credit removal fee of 10 USD through Paypal. This will allow you to use a single 
-template attribution/credit link free on ONE DOMAIN name.
+### Languages
 
-You can send your payments through Paypal to this address: ealigam@gmail.com or
-visit our attribution removal page: https://www.styleshout.com/attribution-free/ 
-and click the pay button on the page.
+* Python
+* JavaScript
+* Java
+* SQL
 
-If possible, kindly send us the site's url where the template is being used. 
-Also, keep your Paypal receipt as proof of payment and your good to go.
+### AI & Machine Learning
 
+* LangChain
+* LangGraph
+* Google Gemini API
+* Scikit-learn
+* Pandas
 
------------------------------------------------------------------------------------------------------- 
+### Frontend
 
+* HTML5
+* CSS3
+* JavaScript
+* Responsive Design
 
-SUPPORT:
-    
-Since LUTHER is distributed for free, support is not offered. LUTHER is coded according 
-to current web standards and we did our best to make the template easy to use and modify.
-If you have minimum web development experience, you can easily modify the template. 
-However, If you're still new to HTML and CSS, I suggest that you visit the 
-following tutorials:
+### Backend
 
- - https://marksheet.io/
- - http://learn.shayhowe.com/html-css/
+* Node.js
+* Express.js
+* MongoDB
+* Firebase
 
-These will teach you the essentials of HTML and CSS. In addition, if you want to include
-javascript in your skill-set, you can also check out these tutorials: 
+### Tools
 
- - https://www.codecademy.com/learn/introduction-to-javascript
- - https://javascript.info/
+* Git
+* GitHub
+* Cloudinary
 
+---
 
+## 📬 Contact
 
------------------------------------------------------------------------------------------------------- 
+Email: **[umarkhan12261@gmail.com](mailto:umarkhan12261@gmail.com)**
 
+LinkedIn:
+https://www.linkedin.com/in/md-umar-3b0019280/
 
-GET THE LATEST VERSION:
+GitHub:
+https://github.com/uk-zash
 
-We update our templates on a regular basis so to make sure that you have the latest version, 
-always download the template files directly on our website(https://www.styleshout.com/)
+---
 
+## 🙏 Credits
 
+This portfolio is built upon the **Luther** template created by **Styleshout**.
 
--------------------------------------------------------------------------------------------------------
+Original Template:
+https://www.styleshout.com/
 
+The template has been extensively customized with new layouts, content, styling, projects, and functionality to create this personal portfolio while complying with the original license requirements.
 
-SOURCES AND CREDITS:
+---
 
-I've used the following resources as listed.
+## 📄 License
 
-Fonts:
- - Public Sans Font (https://fonts.google.com/specimen/Public+Sans)
- - DM Serif Display (https://fonts.google.com/specimen/DM+Serif+Display)
+The portfolio content, projects, and custom modifications are © Md Umar.
 
-Icons:
- - Iconmonstr (https://iconmonstr.com/)
-
-Stock Photos and Graphics:
- - Unsplash.com (https://unsplash.com/)
- 
-Javascript Files:
- - Anime.js (https://animejs.com/)
- - Swiper (https://swiperjs.com/)
- - MoveTo.js (https://github.com/hsnaydd/moveTo)
- - Prism.js (https://prismjs.com/)
- - Basic Lightbox (https://basiclightbox.electerious.com/)
- - MailtoUI (https://mailtoui.com/)
-
--------------------------------------------------------------------------------------------------------
-
-
-Thanks for downloading from Styleshout :)
-
-
+The underlying **Luther** template is licensed according to the original Styleshout license. Please refer to the original template documentation for licensing details.
